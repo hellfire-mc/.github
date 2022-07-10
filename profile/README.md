@@ -1,6 +1,8 @@
 [1]: https://github.com/hellfire-mc/.github/CONTRIBUTING.md
 [2]: https://github.com/hellfire-mc/.github/APPLYING.md
 
+[3]: https://github.com/hellfire-mc/inferno
+
 <div align="center">
   <br />
   <p>
@@ -18,7 +20,8 @@ At Hellfire, we are aiming to develop a suite of inter-connecting plugins that c
 
 We have a number of ongoing projects to provide utility and services to your servers:
 
-- To be confirmed!
+- [Inferno](https://github.com/hellfire-mc/inferno) - An API for implementing cross-runtime plugins.
+- [Hellspawn](https://github.com/hellfire-mc/hellspawn) - A gradle plugin for easily building Inferno projects.
 
 ## Contributing
 
