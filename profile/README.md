@@ -1,7 +1,14 @@
 [1]: https://github.com/hellfire-mc/.github/CONTRIBUTING.md
 [2]: https://github.com/hellfire-mc/.github/APPLYING.md
 
-# Welcome to Hellfire!
+<div align="center">
+  <br />
+  <p>
+    <a href="https://github.com/hellfire-mc"><img src="https://raw.githubusercontent.com/hellfire-mc/.github/main/assets/title.png" width="800" alt="hellfire" /></a>
+  </p>
+</div>
+
+## About
 
 Hi! We're Hellfire, a small team of developers creating plugins for all of your Minecraft servers!
 
